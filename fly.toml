@@ -1,5 +1,5 @@
 # Fly.io 配置
-app = "sub-converter"
+app = "Converter"
 primary_region = "hkg"
 
 [build]
